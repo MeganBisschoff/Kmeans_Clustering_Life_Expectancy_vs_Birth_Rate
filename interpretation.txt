@@ -1,0 +1,15 @@
+Run your kmeans.py file using 3 clusters on the 1953 and 2008 datasets
+separately. Document your observations in your text file. Take note of how the clusters change from 1953 to 2008. You will need to pay attention not only to which countries are in clusters together but also to the Life Expectancy and BirthRates for those clusters.
+
+- Clusters with a lower birth rate have a longer life expectancy, and clusters with a higher birth rate have a shorter life expectancy.
+- The clusters are segmented into predominantly first world countries, with a higher life expectancy, to third world countries, with a lower life expectancy.
+- While the global life expectancy between 1953 and 2008 has improved, there are several developing countries like Afghanistan and Somalia for example whose life expectancy has not improved, likely due to the economic and political climate.
+
+-------------------------------------------------------------------------
+
+Next, run the algorithm with 4 clusters on dataBoth.csv. Note any observations in your text file. Which countries are moving up clusters? How does the data from 2008 compare to the data from 1958? Are there any 2008 countries that are in a cluster that is made up mostly of  1953 countries? Try and explain why. They have reached a critical mass in terms of their development.
+
+- Cluster 1, with low life expectancy and high birth rate, is made up mostly of 
+1953 countries with a few 2008 countries. The countries with the 2008 data are also present, in the same cluster, for the 1953 data. The conclusion drawn from this observation is that these contries that have not progressed and remained at the same high life expectancy to birth rate ratio. They have regressed in terms of their development.
+- Cluster 4, with high life expectancy and low birth rate, is made up mostly of 
+2008 countries with a few 1953 countries. The countries with the 1953 data are also present, in the same cluster, for the 2008 data. The conclusion drawn from this observation is that these countries have attained and maintained a high life expectancy to birth rate ratio with no further progression. They have reached a critical mass in terms of their development.

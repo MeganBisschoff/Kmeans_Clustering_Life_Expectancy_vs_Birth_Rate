@@ -1,0 +1,224 @@
+---------- 1953, 3k ----------
+
+
+--- Cluster 1 Data ---
+
+Centroids:
+x(41.72), y(54.93)
+
+Data points in cluster:
+[[39.28, 55.438], [44.281, 60.98], [40.6, 58.168], [38.6, 60.109], [32.8, 58.173], [49.56, 57.426], [37.09, 54.379], [46.98, 47.862], [44.025, 51.128], [48.94, 58.077], [36.094, 54.909], [47.113, 51.242], [44.622, 57.576], [45.55, 48.614], [46.3, 52.484], [36.37, 53.583], [43.29, 49.793], [39.829, 62.678], [39.0, 54.068], [31.8, 57.228], [43.0, 49.484], [37.7, 63.429], [34.8, 59.001], [46.7, 48.473], [33.2, 55.247], [35.759, 48.222], [45.2, 55.996], [35.6, 53.109], [41.0, 56.368], [37.7, 61.332], [37.35, 55.45], [45.194, 55.677], [39.5, 56.15], [47.311, 50.704], [41.3, 47.519], [47.991, 51.209], [47.923, 54.777], [41.6, 60.997], [35.11, 51.209], [39.893, 56.016], [44.244, 62.6], [48.217, 55.602], [36.16, 64.471], [46.3, 54.989], [39.429, 48.182], [37.361, 54.825], [49.459, 50.964], [41.5, 46.663], [44.4, 60.71], [37.453, 53.672], [43.8, 56.313], [44.7, 53.353], [43.647, 51.056], [45.137, 58.831], [38.2, 58.615], [43.2, 51.553], [42.433, 56.014], [46.406, 54.562], [37.097, 59.743], [48.332, 48.753]]
+
+Number of countries:
+60
+
+Countries in cluster:
+['Albania', 'Aruba', 'Azerbaijan', 'Bahamas', 'Barbados', 'Belize', 'Bosnia and Herzegovina', 'Botswana', 'Brazil', 'Brunei', 'Chile', 'Colombia', 'Costa Rica', 'Ecuador', 'Fiji', 'French Guiana', 'French Polynesia', 'Grenada', 'Guadeloupe', 'Guam', 'Guyana', 'Hong Kong  China', 'Jamaica', 'Jordan', 'Kazakhstan', 'Korea  Rep.', 'Kuwait', 'Kyrgyzstan', 'Lebanon', 'Macao  China', 'Macedonia  FYR', 'Malaysia', 'Martinique', 'Mauritius', 'Mayotte', 'Mexico', 'Micronesia  Fed. Sts.', 'Netherlands Antilles', 'New Caledonia', 'Panama', 'Paraguay', 'Philippines', 'Puerto Rico', 'Qatar', 'Reunion', 'Saint Lucia', 'Saint Vincent and the Grenadines', 'Sao Tome and Principe', 'Singapore', 'Sri Lanka', 'Suriname', 'Tajikistan', 'Thailand', 'Tonga', 'Trinidad and Tobago', 'Turkmenistan', 'Uzbekistan', 'Venezuela', 'Virgin Islands (U.S.)', 'Zimbabwe']
+
+Birth rate:
+41.72
+
+Life expectancy:
+54.93
+
+
+--- Cluster 2 Data ---
+
+Centroids:
+x(47.36), y(39.21)
+
+Data points in cluster:
+[[52.112, 28.967], [51.0, 43.345], [54.016, 30.201], [45.1, 42.823], [47.669, 45.509], [39.491, 32.938], [46.67, 36.099], [46.957, 40.564], [47.202, 32.045], [48.44, 39.177], [45.35, 39.63], [43.436, 38.7], [50.9, 47.023], [41.724, 33.645], [46.403, 37.7], [43.768, 44.55952], [46.76, 40.872], [47.209, 39.244], [42.241, 43.547], [51.152, 38.935], [50.047, 35.082], [52.793, 46.349], [47.734, 43.102], [46.827, 45.509], [40.882, 34.633], [48.36, 36.14], [49.383, 34.252], [30.539, 37.287], [44.304, 31.808], [44.597, 42.135], [50.276, 42.683], [48.431, 31.611], [55.157, 32.636], [45.679, 37.87], [52.108, 41.835], [43.393, 38.193], [42.732, 39.281], [46.965, 38.638], [52.958, 40.423], [51.235, 42.457], [46.135, 42.473], [42.142, 42.439], [47.891, 34.816], [48.0, 43.158], [49.005, 36.92], [52.3, 36.324], [45.18, 34.349], [45.106, 29.808], [48.665, 39.354], [43.67, 43.558], [50.4, 43.158], [49.344, 31.541], [47.367, 36.742], [43.374, 42.126], [43.926, 36.313], [54.898, 42.314], [52.957, 37.626], [48.032, 35.789], [51.44, 38.334], [37.246, 41.588], [43.1, 34.929], [47.076, 43.985], [51.79, 40.146], [50.87, 46.185], [49.0, 40.781], [44.648, 37.318], [45.368, 29.863], [42.63, 45.639], [53.377, 33.177], [43.256, 45.399], [46.398, 40.117], [48.077, 41.674], [48.435, 47.979], [49.023, 41.474], [47.43, 30.212], [46.922, 35.473], [46.4, 44.846], [50.791, 47.625], [51.267, 40.238], [47.8, 45.504], [50.39, 42.241], [42.651, 40.704], [46.7, 46.657], [49.012, 35.704], [54.776, 35.837], [46.822, 42.28]]
+
+Number of countries:
+86
+
+Countries in cluster:
+['Afghanistan', 'Algeria', 'Angola', 'Bahrain', 'Bangladesh', 'Benin', 'Bhutan', 'Bolivia', 'Burkina Faso', 'Burundi', 'Cambodia', 'Cameroon', 'Cape Verde', 'Central African Rep.', 'Chad', 'China', 'Comoros', 'Congo  Dem. Rep.', 'Congo  Rep.', "Cote d'Ivoire", 'Djibouti', 'Dominican Rep.', 'Egypt', 'El Salvador', 'Equatorial Guinea', 'Eritrea', 'Ethiopia', 'Gabon', 'Gambia', 'Ghana', 'Guatemala', 'Guinea', 'Guinea-Bissau', 'Haiti', 'Honduras', 'India', 'Indonesia', 'Iran', 'Iraq', 'Kenya', 'Laos', 'Lesotho', 'Liberia', 'Libya', 'Madagascar', 'Malawi', 'Maldives', 'Mali', 'Mauritania', 'Mongolia', 'Morocco', 'Mozambique', 'Myanmar', 'Namibia', 'Nepal', 'Nicaragua', 'Niger', 'Nigeria', 'Oman', 'Pakistan', 'Papua New Guinea', 'Peru', 'Rwanda', 'Samoa', 'Saudi Arabia', 'Senegal', 'Sierra Leone', 'Solomon Islands', 'Somalia', 'South Africa', 'Sudan', 'Swaziland', 'Syria', 'Tanzania', 'Timor-Leste', 'Togo', 'Tunisia', 'Turkey', 'Uganda', 'United Arab Emirates', 'Vanuatu', 'Vietnam', 'West Bank and Gaza', 'Western Sahara', 'Yemen  Rep.', 'Zambia']
+
+Birth rate:
+47.36
+
+Life expectancy:
+39.21
+
+
+--- Cluster 3 Data ---
+
+Centroids:
+x(22.44), y(65.7)
+
+Data points in cluster:
+[[25.423, 62.814], [33.7, 63.009], [23.01, 69.7], [14.875, 67.29], [22.887, 66.125], [16.516, 68.37], [21.06, 64.14], [27.76, 69.13], [14.62, 69.426], [22.61, 61.661], [31.602, 59.429], [27.4, 66.959], [19.386, 67.56], [17.9, 71.15], [17.25, 65.571], [22.82, 66.61], [18.857, 67.34], [24.4, 60.802], [15.95, 67.687], [19.44, 66.09], [21.06, 63.87], [27.9, 72.31], [21.39, 67.96], [32.5, 65.716], [18.237, 66.58], [23.751, 63.37], [23.8, 50.534], [16.38, 66.421], [21.59, 65.111], [14.72, 66.092], [29.32, 65.88], [29.45, 58.644], [16.085, 59.351], [22.1, 71.71], [25.74, 70.24], [18.72, 73.15], [30.14, 61.918], [24.09, 61.12], [24.94, 61.337], [26.455, 64.693], [26.97, 58.405], [27.41, 65.66], [21.98, 65.866], [20.32, 65.81], [15.49, 71.9], [17.34, 69.53], [25.38, 66.385], [15.917, 69.87], [24.28, 68.79], [21.227, 66.109]]
+
+Number of countries:
+50
+
+Countries in cluster:
+['Argentina', 'Armenia', 'Australia', 'Austria', 'Belarus', 'Belgium', 'Bulgaria', 'Canada', 'Channel Islands', 'Croatia', 'Cuba', 'Cyprus', 'Czech Rep.', 'Denmark', 'Estonia', 'Finland', 'France', 'Georgia', 'Germany', 'Greece', 'Hungary', 'Iceland', 'Ireland', 'Israel', 'Italy', 'Japan', 'Korea  Dem. Rep.', 'Latvia', 'Lithuania', 'Luxembourg', 'Malta', 'Moldova', 'Montenegro', 'Netherlands', 'New Zealand', 'Norway', 'Poland', 'Portugal', 'Romania', 'Russia', 'Serbia', 'Slovak Republic', 'Slovenia', 'Spain', 'Sweden', 'Switzerland', 'Ukraine', 'United Kingdom', 'United States', 'Uruguay']
+
+Birth rate:
+22.44
+
+Life expectancy:
+65.7
+
+
+
+---------- 2008, 3k ----------
+
+
+--- Cluster 1 Data ---
+
+Centroids:
+x(37.84), y(53.56)
+
+Data points in cluster:
+[[46.613, 47.532], [42.908, 49.879], [39.599, 54.86], [24.676, 52.812], [47.819, 54.065], [34.581, 49.054], [37.113, 50.194], [35.623, 46.217], [45.84, 48.634], [32.746, 59.882], [45.058, 47.588], [34.744, 56.187], [35.127, 53.328], [28.687, 56.784], [38.027, 50.2], [37.283, 60.272], [38.558, 57.481], [36.993, 57.522], [32.507, 62.88], [39.88, 52.692], [41.357, 46.979], [39.026, 55.179], [29.112, 46.119], [38.556, 54.77], [36.191, 65.856], [40.455, 51.866], [42.79, 50.194], [33.798, 57.711], [39.509, 48.976], [54.053, 53.322], [40.134, 50.497], [31.684, 61.683], [41.033, 54.252], [38.776, 58.348], [40.441, 46.44], [44.239, 50.429], [22.113, 51.37], [31.616, 60.485], [30.014, 47.391], [41.648, 55.821], [40.201, 61.095], [33.058, 55.915], [46.345, 52.489], [37.1, 64.176], [43.152, 
+47.112], [30.028, 47.199]]
+
+Number of countries:
+46
+
+Countries in cluster:
+['Afghanistan', 'Angola', 'Benin', 'Botswana', 'Burkina Faso', 'Burundi', 'Cameroon', 'Central African Rep.', 'Chad', 'Comoros', 'Congo  Dem. Rep.', 'Congo  Rep.', "Cote d'Ivoire", 'Djibouti', 'Equatorial Guinea', 'Eritrea', 'Ethiopia', 'Gambia', 'Ghana', 'Guinea', 'Guinea-Bissau', 'Kenya', 'Lesotho', 'Liberia', 'Madagascar', 'Malawi', 'Mali', 'Mauritania', 'Mozambique', 'Niger', 'Nigeria', 'Papua New Guinea', 'Rwanda', 'Senegal', 'Sierra Leone', 'Somalia', 'South Africa', 'Sudan', 'Swaziland', 'Tanzania', 'Timor-Leste', 'Togo', 'Uganda', 'Yemen  Rep.', 'Zambia', 'Zimbabwe']
+
+Birth rate:
+37.84
+
+Life expectancy:
+53.56
+
+
+--- Cluster 2 Data ---
+
+Centroids:
+x(12.65), y(76.71)
+
+Data points in cluster:
+[[14.69, 76.492], [17.372, 75.387], [15.222, 73.794], [11.846, 74.811], [12.741, 81.567], [9.138, 80.51], [16.863, 74.848], [18.151, 74.675], [11.237, 76.343], [9.97, 69.194], [11.293, 79.777], [9.168, 75.221], [16.405, 72.464], [9.558, 73.317], [10.625, 80.743], [9.426, 79.586], [15.04, 78.561], [13.536, 73.099], [16.643, 78.94], [9.556, 76.075], [10.499, 78.565], [11.514, 79.058], [10.564, 77.26], [11.546, 78.408], [11.766, 73.23], [11.127, 79.699], [12.21, 81.254], [18.075, 74.584], [12.116, 73.19], [8.136, 80.06], [9.65, 79.594], [14.452, 79.437], [18.459, 75.606], [8.165, 81.832], [9.858, 73.48], [14.738, 81.846], [15.645, 79.94], [20.028, 80.836], [9.258, 81.236], [8.201, 82.81], [13.812, 68.577], [9.488, 80.064], [17.911, 74.234], [10.143, 72.518], [15.844, 72.079], [9.468, 71.84], [11.389, 79.563], [8.28, 80.198], [10.918, 74.32], [18.82, 75.791], [9.04, 78.951], [12.643, 80.131], [14.112, 72.916], [19.091, 76.303], [12.291, 68.438], [12.076, 74.096], [11.259, 80.024], [13.401, 76.184], [16.477, 75.525], [13.831, 80.301], [12.304, 80.672], [9.792, 75.678], [9.873, 78.771], [13.19, 78.823], [12.197, 77.948], [18.55, 77.297], [10.045, 73.275], [10.828, 67.89], [11.612, 74.083], [8.191, 80.672], [10.176, 74.88], [9.628, 78.414], [11.016, 80.935], [11.72, 80.973], [9.69, 81.898], [14.577, 73.646], [14.828, 69.445], [16.093, 73.995], [9.879, 68.306], [14.027, 76.035], [12.195, 79.499], [14.191, 77.8], [15.089, 76.453], [17.312, 74.51], [13.536, 79.014]]
+
+Number of countries:
+85
+
+Countries in cluster:
+['Albania', 'Argentina', 'Armenia', 'Aruba', 'Australia', 'Austria', 'Bahamas', 'Bahrain', 'Barbados', 'Belarus', 'Belgium', 'Bosnia and Herzegovina', 'Brazil', 'Bulgaria', 'Canada', 'Channel Islands', 'Chile', 'China', 'Costa Rica', 'Croatia', 'Cuba', 'Cyprus', 'Czech Rep.', 'Denmark', 'Estonia', 'Finland', 'France', 'French Polynesia', 'Georgia', 'Germany', 'Greece', 'Guadeloupe', 'Guam', 'Hong Kong  China', 'Hungary', 'Iceland', 'Ireland', 'Israel', 'Italy', 'Japan', 'Korea  Dem. Rep.', 'Korea  Rep.', 'Kuwait', 'Latvia', 'Lebanon', 'Lithuania', 'Luxembourg', 'Macao  China', 'Macedonia  FYR', 'Maldives', 'Malta', 'Martinique', 'Mauritius', 'Mexico', 'Moldova', 'Montenegro', 'Netherlands', 'Netherlands Antilles', 'New Caledonia', 'New Zealand', 'Norway', 'Poland', 'Portugal', 'Puerto Rico', 'Qatar', 'Reunion', 'Romania', 'Russia', 'Serbia', 'Singapore', 'Slovak Republic', 'Slovenia', 'Spain', 'Sweden', 'Switzerland', 'Thailand', 'Trinidad and Tobago', 'Tunisia', 'Ukraine', 'United Arab Emirates', 'United Kingdom', 'United States', 'Uruguay', 'Vietnam', 'Virgin Islands (U.S.)']
+
+Birth rate:
+12.65
+
+Life expectancy:
+76.71
+
+
+--- Cluster 3 Data ---
+
+Centroids:
+x(23.68), y(70.12)
+
+Data points in cluster:
+[[20.804, 72.44], [19.0, 70.15], [21.589, 68.007], [24.916, 75.388], [21.522, 66.066], [27.349, 65.701], [20.061, 77.6], [24.89, 61.736], [24.261, 73.587], [20.605, 73.041], [22.719, 72.678], [20.989, 75.15], [24.83, 72.507], [20.377, 71.543], [21.11, 68.858], [25.229, 75.979], [27.483, 61.391], [19.412, 75.457], [33.25, 70.447], [18.043, 68.841], [27.852, 61.106], [27.748, 72.247], [22.966, 64.382], [18.756, 68.118], [18.94, 72.199], [31.585, 67.812], [19.461, 72.362], [26.04, 72.989], [19.775, 65.999], [22.38, 66.899], [27.612, 66.237], [23.415, 74.143], [20.534, 73.52], [25.391, 77.147], [25.487, 68.434], [18.955, 67.466], [20.536, 71.323], [20.651, 63.823], [27.8, 61.112], [25.611, 67.589], [24.848, 73.153], [22.058, 72.765], [30.209, 64.709], [20.819, 75.605], [24.822, 71.854], [21.342, 73.315], [24.963, 67.963], [18.049, 73.995], [17.725, 71.713], [23.764, 71.679], [32.399, 63.935], [23.569, 73.25], [30.79, 66.656], [18.287, 74.456], [19.121, 69.741], [28.231, 75.417], [28.139, 66.581], [28.167, 71.911], [18.426, 73.156], [22.014, 64.658], [20.36, 67.585], [30.443, 70.151], [21.439, 
+73.815], [35.855, 72.274], [23.34, 66.168]]
+
+Number of countries:
+65
+
+Countries in cluster:
+['Algeria', 'Azerbaijan', 'Bangladesh', 'Belize', 'Bhutan', 'Bolivia', 'Brunei', 'Cambodia', 'Cape Verde', 'Colombia', 'Dominican Rep.', 'Ecuador', 'Egypt', 'El Salvador', 'Fiji', 'French Guiana', 'Gabon', 'Grenada', 'Guatemala', 'Guyana', 'Haiti', 'Honduras', 'India', 'Indonesia', 'Iran', 'Iraq', 'Jamaica', 'Jordan', 'Kazakhstan', 'Kyrgyzstan', 'Laos', 'Libya', 'Malaysia', 'Mayotte', 'Micronesia  Fed. Sts.', 'Mongolia', 'Morocco', 'Myanmar', 'Namibia', 'Nepal', 'Nicaragua', 'Oman', 'Pakistan', 'Panama', 'Paraguay', 'Peru', 'Philippines', 'Saint Lucia', 'Saint Vincent and the Grenadines', 'Samoa', 'Sao Tome and Principe', 'Saudi Arabia', 'Solomon Islands', 'Sri Lanka', 'Suriname', 'Syria', 'Tajikistan', 'Tonga', 'Turkey', 'Turkmenistan', 'Uzbekistan', 'Vanuatu', 'Venezuela', 'West Bank and Gaza', 'Western Sahara']
+
+Birth rate:
+23.68
+
+Life expectancy:
+70.12
+
+
+
+----- dataBoth, 4k -----
+
+
+--- Cluster 1 Data ---
+
+Centroids:
+x(46.5), y(42.7)
+
+Data points in cluster:
+[[46.613, 47.532], [42.908, 49.879], [47.819, 54.065], [35.623, 46.217], [45.84, 48.634], [45.058, 47.588], [41.357, 46.979], [42.79, 50.194], [39.509, 48.976], [54.053, 53.322], [40.134, 50.497], [40.441, 46.44], [44.239, 50.429], [46.345, 52.489], [43.152, 47.112], [52.112, 28.967], [51.0, 43.345], [54.016, 30.201], [45.1, 42.823], [47.669, 45.509], [49.56, 57.426], [39.491, 32.938], [46.67, 36.099], [46.957, 40.564], [46.98, 47.862], [44.025, 51.128], [47.202, 32.045], [48.44, 39.177], [45.35, 39.63], [43.436, 38.7], [50.9, 47.023], [41.724, 33.645], [46.403, 37.7], [43.768, 44.55952], [47.113, 51.242], [46.76, 40.872], [47.209, 39.244], [42.241, 43.547], [51.152, 38.935], [50.047, 35.082], [52.793, 46.349], [45.55, 48.614], [47.734, 43.102], [46.827, 45.509], [40.882, 34.633], [48.36, 36.14], [49.383, 34.252], [46.3, 52.484], [43.29, 49.793], [30.539, 37.287], [44.304, 31.808], [44.597, 42.135], [50.276, 42.683], [48.431, 31.611], [55.157, 32.636], [43.0, 49.484], [45.679, 37.87], [52.108, 41.835], [43.393, 38.193], [42.732, 39.281], [46.965, 38.638], [52.958, 40.423], [46.7, 48.473], [51.235, 42.457], [35.759, 48.222], [46.135, 42.473], [42.142, 42.439], [47.891, 34.816], [48.0, 43.158], [49.005, 36.92], [52.3, 36.324], [45.18, 34.349], [45.106, 29.808], [48.665, 39.354], [47.311, 50.704], [41.3, 47.519], [47.991, 51.209], [47.923, 54.777], [43.67, 43.558], [50.4, 43.158], [49.344, 31.541], [47.367, 36.742], [43.374, 42.126], [43.926, 36.313], [54.898, 42.314], [52.957, 37.626], [48.032, 35.789], [51.44, 38.334], [37.246, 41.588], [43.1, 34.929], [47.076, 43.985], [48.217, 55.602], [46.3, 54.989], [39.429, 48.182], [51.79, 40.146], [49.459, 50.964], [50.87, 46.185], [41.5, 46.663], [49.0, 40.781], [44.648, 37.318], [45.368, 29.863], [42.63, 45.639], [53.377, 33.177], [43.256, 45.399], [46.398, 40.117], [48.077, 41.674], [48.435, 47.979], [44.7, 53.353], [49.023, 41.474], [43.647, 51.056], [47.43, 30.212], [46.922, 35.473], [46.4, 44.846], [50.791, 47.625], [43.2, 51.553], [51.267, 40.238], [47.8, 45.504], [50.39, 
+42.241], [46.406, 54.562], [42.651, 40.704], [46.7, 46.657], [49.012, 35.704], 
+[54.776, 35.837], [46.822, 42.28], [48.332, 48.753]]
+
+Number of countries:
+125
+
+Countries in cluster:
+['(2008)Afghanistan', '(2008)Angola', '(2008)Burkina Faso', '(2008)Central African Rep.', '(2008)Chad', '(2008)Congo  Dem. Rep.', '(2008)Guinea-Bissau', '(2008)Mali', '(2008)Mozambique', '(2008)Niger', '(2008)Nigeria', '(2008)Sierra Leone', '(2008)Somalia', '(2008)Uganda', '(2008)Zambia', '(1953)Afghanistan', '(1953)Algeria', '(1953)Angola', '(1953)Bahrain', '(1953)Bangladesh', '(1953)Belize', '(1953)Benin', '(1953)Bhutan', '(1953)Bolivia', '(1953)Botswana', '(1953)Brazil', '(1953)Burkina Faso', '(1953)Burundi', '(1953)Cambodia', '(1953)Cameroon', '(1953)Cape Verde', '(1953)Central African Rep.', '(1953)Chad', '(1953)China', '(1953)Colombia', '(1953)Comoros', '(1953)Congo  Dem. Rep.', '(1953)Congo  Rep.', "(1953)Cote d'Ivoire", '(1953)Djibouti', '(1953)Dominican Rep.', '(1953)Ecuador', '(1953)Egypt', '(1953)El Salvador', '(1953)Equatorial Guinea', '(1953)Eritrea', '(1953)Ethiopia', '(1953)Fiji', '(1953)French Polynesia', '(1953)Gabon', '(1953)Gambia', '(1953)Ghana', '(1953)Guatemala', '(1953)Guinea', '(1953)Guinea-Bissau', '(1953)Guyana', '(1953)Haiti', '(1953)Honduras', '(1953)India', '(1953)Indonesia', '(1953)Iran', '(1953)Iraq', '(1953)Jordan', '(1953)Kenya', '(1953)Korea  Rep.', '(1953)Laos', '(1953)Lesotho', '(1953)Liberia', '(1953)Libya', '(1953)Madagascar', '(1953)Malawi', '(1953)Maldives', '(1953)Mali', '(1953)Mauritania', '(1953)Mauritius', '(1953)Mayotte', '(1953)Mexico', '(1953)Micronesia  Fed. Sts.', '(1953)Mongolia', '(1953)Morocco', '(1953)Mozambique', '(1953)Myanmar', '(1953)Namibia', '(1953)Nepal', '(1953)Nicaragua', '(1953)Niger', '(1953)Nigeria', '(1953)Oman', '(1953)Pakistan', '(1953)Papua New Guinea', '(1953)Peru', '(1953)Philippines', '(1953)Qatar', '(1953)Reunion', '(1953)Rwanda', '(1953)Saint Vincent and the Grenadines', '(1953)Samoa', '(1953)Sao Tome and Principe', '(1953)Saudi Arabia', '(1953)Senegal', '(1953)Sierra Leone', '(1953)Solomon Islands', '(1953)Somalia', '(1953)South Africa', '(1953)Sudan', '(1953)Swaziland', '(1953)Syria', '(1953)Tajikistan', '(1953)Tanzania', '(1953)Thailand', '(1953)Timor-Leste', '(1953)Togo', '(1953)Tunisia', '(1953)Turkey', '(1953)Turkmenistan', '(1953)Uganda', '(1953)United Arab Emirates', '(1953)Vanuatu', '(1953)Venezuela', '(1953)Vietnam', '(1953)West Bank and Gaza', '(1953)Western Sahara', 
+'(1953)Yemen  Rep.', '(1953)Zambia', '(1953)Zimbabwe']
+
+Birth rate:
+46.5
+
+Life expectancy:
+42.7
+
+
+--- Cluster 2 Data ---
+
+Centroids:
+x(21.94), y(68.79)
+
+Data points in cluster:
+[[20.804, 72.44], [19.0, 70.15], [21.589, 68.007], [24.916, 75.388], [21.522, 66.066], [27.349, 65.701], [24.89, 61.736], [24.261, 73.587], [20.605, 73.041], [22.719, 72.678], [20.989, 75.15], [24.83, 72.507], [20.377, 71.543], [21.11, 68.858], [25.229, 75.979], [18.043, 68.841], [27.748, 72.247], [22.966, 64.382], [18.756, 68.118], [18.94, 72.199], [19.461, 72.362], [26.04, 72.989], [19.775, 65.999], [13.812, 68.577], [22.38, 66.899], [27.612, 66.237], [23.415, 74.143], [20.534, 73.52], [25.391, 77.147], [25.487, 68.434], [18.955, 67.466], [20.536, 71.323], [20.651, 63.823], [25.611, 67.589], [24.848, 73.153], [22.058, 72.765], [20.819, 75.605], [24.822, 71.854], [21.342, 73.315], [24.963, 67.963], [17.725, 71.713], [23.764, 71.679], [23.569, 73.25], [19.121, 69.741], [28.231, 75.417], [28.139, 66.581], [28.167, 71.911], [14.828, 69.445], [18.426, 73.156], [22.014, 64.658], [20.36, 67.585], [30.443, 70.151], [21.439, 73.815], [23.34, 66.168], [25.423, 62.814], [23.01, 69.7], [14.875, 67.29], [22.887, 66.125], [16.516, 68.37], [21.06, 64.14], [27.76, 69.13], [14.62, 69.426], [22.61, 61.661], [27.4, 66.959], [19.386, 67.56], [17.9, 71.15], [17.25, 65.571], [22.82, 66.61], [18.857, 67.34], [24.4, 60.802], [15.95, 67.687], [19.44, 66.09], [21.06, 63.87], [27.9, 72.31], [21.39, 67.96], [18.237, 66.58], [23.751, 63.37], [16.38, 66.421], [21.59, 65.111], [14.72, 66.092], [16.085, 59.351], [22.1, 71.71], [25.74, 70.24], [18.72, 73.15], [24.09, 61.12], [24.94, 61.337], [26.455, 64.693], [27.41, 65.66], [21.98, 65.866], [20.32, 65.81], [17.34, 69.53], [25.38, 66.385], [15.917, 69.87], [24.28, 68.79], [21.227, 66.109]]
+
+Number of countries:
+95
+
+Countries in cluster:
+['(2008)Algeria', '(2008)Azerbaijan', '(2008)Bangladesh', '(2008)Belize', '(2008)Bhutan', '(2008)Bolivia', '(2008)Cambodia', '(2008)Cape Verde', '(2008)Colombia', '(2008)Dominican Rep.', '(2008)Ecuador', '(2008)Egypt', '(2008)El Salvador', '(2008)Fiji', '(2008)French Guiana', '(2008)Guyana', '(2008)Honduras', '(2008)India', '(2008)Indonesia', '(2008)Iran', '(2008)Jamaica', '(2008)Jordan', '(2008)Kazakhstan', '(2008)Korea  Dem. Rep.', '(2008)Kyrgyzstan', '(2008)Laos', '(2008)Libya', '(2008)Malaysia', '(2008)Mayotte', '(2008)Micronesia  Fed. Sts.', '(2008)Mongolia', '(2008)Morocco', '(2008)Myanmar', '(2008)Nepal', '(2008)Nicaragua', '(2008)Oman', '(2008)Panama', '(2008)Paraguay', '(2008)Peru', '(2008)Philippines', '(2008)Saint Vincent and the Grenadines', '(2008)Samoa', '(2008)Saudi Arabia', '(2008)Suriname', '(2008)Syria', '(2008)Tajikistan', '(2008)Tonga', '(2008)Trinidad and Tobago', '(2008)Turkey', '(2008)Turkmenistan', '(2008)Uzbekistan', '(2008)Vanuatu', '(2008)Venezuela', '(2008)Western Sahara', '(1953)Argentina', '(1953)Australia', '(1953)Austria', '(1953)Belarus', '(1953)Belgium', '(1953)Bulgaria', '(1953)Canada', '(1953)Channel Islands', '(1953)Croatia', '(1953)Cyprus', '(1953)Czech Rep.', '(1953)Denmark', '(1953)Estonia', '(1953)Finland', '(1953)France', '(1953)Georgia', '(1953)Germany', '(1953)Greece', '(1953)Hungary', '(1953)Iceland', '(1953)Ireland', '(1953)Italy', '(1953)Japan', '(1953)Latvia', '(1953)Lithuania', '(1953)Luxembourg', '(1953)Montenegro', '(1953)Netherlands', '(1953)New Zealand', '(1953)Norway', '(1953)Portugal', '(1953)Romania', '(1953)Russia', '(1953)Slovak Republic', '(1953)Slovenia', '(1953)Spain', '(1953)Switzerland', '(1953)Ukraine', '(1953)United Kingdom', '(1953)United States', '(1953)Uruguay']
+
+Birth rate:
+21.94
+
+Life expectancy:
+68.79
+
+
+--- Cluster 3 Data ---
+
+Centroids:
+x(12.93), y(76.77)
+
+Data points in cluster:
+[[14.69, 76.492], [17.372, 75.387], [15.222, 73.794], [11.846, 74.811], [12.741, 81.567], [9.138, 80.51], [16.863, 74.848], [18.151, 74.675], [11.237, 76.343], [9.97, 69.194], [11.293, 79.777], [9.168, 75.221], [16.405, 72.464], [20.061, 77.6], [9.558, 73.317], [10.625, 80.743], [9.426, 79.586], [15.04, 78.561], [13.536, 73.099], [16.643, 78.94], [9.556, 76.075], [10.499, 78.565], [11.514, 79.058], [10.564, 77.26], [11.546, 78.408], [11.766, 73.23], [11.127, 79.699], [12.21, 81.254], [18.075, 74.584], [12.116, 73.19], [8.136, 80.06], [9.65, 79.594], [19.412, 75.457], [14.452, 79.437], [18.459, 75.606], [8.165, 81.832], [9.858, 73.48], [14.738, 81.846], [15.645, 79.94], [20.028, 80.836], [9.258, 81.236], [8.201, 82.81], [9.488, 80.064], [17.911, 74.234], [10.143, 72.518], [15.844, 72.079], [9.468, 71.84], [11.389, 79.563], [8.28, 80.198], [10.918, 74.32], [18.82, 75.791], [9.04, 78.951], [12.643, 80.131], [14.112, 72.916], [19.091, 76.303], [12.291, 68.438], [12.076, 74.096], [11.259, 80.024], [13.401, 76.184], [16.477, 75.525], [13.831, 80.301], [12.304, 80.672], [9.792, 75.678], [9.873, 78.771], [13.19, 78.823], [12.197, 77.948], [18.55, 77.297], [10.045, 73.275], [10.828, 67.89], [18.049, 73.995], [11.612, 74.083], [8.191, 80.672], [10.176, 74.88], [9.628, 78.414], [11.016, 80.935], [18.287, 74.456], [11.72, 80.973], [9.69, 81.898], [14.577, 73.646], [16.093, 73.995], [9.879, 68.306], [14.027, 76.035], [12.195, 79.499], [14.191, 77.8], [15.089, 76.453], [17.312, 74.51], [13.536, 79.014], [15.49, 71.9]]
+
+Number of countries:
+88
+
+Countries in cluster:
+['(2008)Albania', '(2008)Argentina', '(2008)Armenia', '(2008)Aruba', '(2008)Australia', '(2008)Austria', '(2008)Bahamas', '(2008)Bahrain', '(2008)Barbados', '(2008)Belarus', '(2008)Belgium', '(2008)Bosnia and Herzegovina', '(2008)Brazil', '(2008)Brunei', '(2008)Bulgaria', '(2008)Canada', '(2008)Channel Islands', '(2008)Chile', '(2008)China', '(2008)Costa Rica', '(2008)Croatia', '(2008)Cuba', '(2008)Cyprus', '(2008)Czech Rep.', '(2008)Denmark', '(2008)Estonia', '(2008)Finland', '(2008)France', '(2008)French Polynesia', '(2008)Georgia', '(2008)Germany', '(2008)Greece', '(2008)Grenada', '(2008)Guadeloupe', '(2008)Guam', '(2008)Hong Kong  China', '(2008)Hungary', '(2008)Iceland', '(2008)Ireland', '(2008)Israel', '(2008)Italy', '(2008)Japan', '(2008)Korea  Rep.', '(2008)Kuwait', '(2008)Latvia', '(2008)Lebanon', '(2008)Lithuania', '(2008)Luxembourg', '(2008)Macao  China', '(2008)Macedonia  FYR', '(2008)Maldives', '(2008)Malta', '(2008)Martinique', '(2008)Mauritius', '(2008)Mexico', '(2008)Moldova', '(2008)Montenegro', '(2008)Netherlands', '(2008)Netherlands Antilles', '(2008)New Caledonia', '(2008)New Zealand', '(2008)Norway', '(2008)Poland', '(2008)Portugal', '(2008)Puerto Rico', '(2008)Qatar', '(2008)Reunion', '(2008)Romania', '(2008)Russia', '(2008)Saint Lucia', '(2008)Serbia', '(2008)Singapore', '(2008)Slovak Republic', '(2008)Slovenia', '(2008)Spain', '(2008)Sri Lanka', '(2008)Sweden', '(2008)Switzerland', '(2008)Thailand', '(2008)Tunisia', '(2008)Ukraine', '(2008)United Arab Emirates', '(2008)United Kingdom', '(2008)United States', '(2008)Uruguay', '(2008)Vietnam', '(2008)Virgin Islands (U.S.)', '(1953)Sweden']
+
+Birth rate:
+12.93
+
+Life expectancy:
+76.77
+
+
+--- Cluster 4 Data ---
+
+Centroids:
+x(35.94), y(57.95)
+
+Data points in cluster:
+[[39.599, 54.86], [24.676, 52.812], [34.581, 49.054], [37.113, 50.194], [32.746, 59.882], [34.744, 56.187], [35.127, 53.328], [28.687, 56.784], [38.027, 50.2], [37.283, 60.272], [38.558, 57.481], [27.483, 61.391], [36.993, 57.522], [32.507, 62.88], [33.25, 70.447], [39.88, 52.692], [27.852, 61.106], [31.585, 67.812], [39.026, 55.179], [29.112, 46.119], [38.556, 54.77], [36.191, 65.856], [40.455, 51.866], [33.798, 57.711], [27.8, 61.112], [30.209, 64.709], [31.684, 61.683], [41.033, 54.252], [32.399, 63.935], [38.776, 58.348], [30.79, 66.656], [22.113, 51.37], [31.616, 60.485], [30.014, 47.391], [41.648, 55.821], [40.201, 61.095], [33.058, 55.915], [35.855, 72.274], [37.1, 64.176], [30.028, 47.199], [39.28, 55.438], [33.7, 63.009], [44.281, 60.98], [40.6, 58.168], [38.6, 60.109], [32.8, 58.173], [37.09, 54.379], [48.94, 58.077], [36.094, 54.909], [44.622, 57.576], [31.602, 59.429], [36.37, 53.583], [39.829, 62.678], [39.0, 54.068], [31.8, 57.228], [37.7, 63.429], [32.5, 65.716], [34.8, 59.001], [33.2, 55.247], [23.8, 50.534], [45.2, 55.996], [35.6, 53.109], [41.0, 56.368], [37.7, 61.332], [37.35, 55.45], [45.194, 55.677], [29.32, 65.88], [39.5, 56.15], [29.45, 58.644], [41.6, 60.997], [35.11, 51.209], [39.893, 56.016], [44.244, 62.6], [30.14, 61.918], [36.16, 64.471], [37.361, 54.825], [26.97, 58.405], [44.4, 60.71], [37.453, 53.672], [43.8, 56.313], [45.137, 58.831], [38.2, 58.615], [42.433, 56.014], [37.097, 59.743]]
+
+Number of countries:
+84
+
+Countries in cluster:
+['(2008)Benin', '(2008)Botswana', '(2008)Burundi', '(2008)Cameroon', '(2008)Comoros', '(2008)Congo  Rep.', "(2008)Cote d'Ivoire", '(2008)Djibouti', '(2008)Equatorial Guinea', '(2008)Eritrea', '(2008)Ethiopia', '(2008)Gabon', '(2008)Gambia', '(2008)Ghana', '(2008)Guatemala', '(2008)Guinea', '(2008)Haiti', '(2008)Iraq', '(2008)Kenya', '(2008)Lesotho', '(2008)Liberia', '(2008)Madagascar', '(2008)Malawi', '(2008)Mauritania', '(2008)Namibia', '(2008)Pakistan', '(2008)Papua New Guinea', '(2008)Rwanda', '(2008)Sao Tome and Principe', '(2008)Senegal', '(2008)Solomon Islands', '(2008)South Africa', '(2008)Sudan', '(2008)Swaziland', '(2008)Tanzania', '(2008)Timor-Leste', '(2008)Togo', '(2008)West Bank and Gaza', '(2008)Yemen  Rep.', '(2008)Zimbabwe', '(1953)Albania', '(1953)Armenia', '(1953)Aruba', '(1953)Azerbaijan', '(1953)Bahamas', '(1953)Barbados', '(1953)Bosnia and Herzegovina', '(1953)Brunei', '(1953)Chile', '(1953)Costa Rica', '(1953)Cuba', '(1953)French Guiana', '(1953)Grenada', '(1953)Guadeloupe', '(1953)Guam', '(1953)Hong Kong  China', '(1953)Israel', '(1953)Jamaica', '(1953)Kazakhstan', '(1953)Korea  Dem. Rep.', '(1953)Kuwait', '(1953)Kyrgyzstan', '(1953)Lebanon', '(1953)Macao  China', '(1953)Macedonia  FYR', '(1953)Malaysia', '(1953)Malta', '(1953)Martinique', '(1953)Moldova', '(1953)Netherlands Antilles', '(1953)New Caledonia', '(1953)Panama', '(1953)Paraguay', '(1953)Poland', '(1953)Puerto Rico', '(1953)Saint Lucia', '(1953)Serbia', '(1953)Singapore', '(1953)Sri Lanka', '(1953)Suriname', '(1953)Tonga', '(1953)Trinidad and Tobago', '(1953)Uzbekistan', '(1953)Virgin Islands (U.S.)']
+
+Birth rate:
+35.94
+
+Life expectancy:
+57.95
